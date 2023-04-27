@@ -5,11 +5,9 @@
 ### [Project Proposal](https://docs.google.com/document/d/1hoyl1yPXKRPsoHOoqWCAK6LXWF1yyHn65geK09LMiUc/edit?usp=sharing#)
 ### [User Interviews](https://docs.google.com/document/d/1BRhGtoM6INhmK_BLwBfEmgSFrSo63CiDlrNESPc18rE/edit?usp=sharing#)
 
-[GitHub Repository](link_ADDING_LATER#)
+[GitHub Repository](https://github.com/Luciano-XP/HARP151-Final_Project)
 
 [Presentation slides](#https://docs.google.com/presentation/d/14d3NIA_TCjUVDv4uSWpNST-GYOt-kthORkwNdIs9MIE/edit?usp=sharing)
-
-[Demo Video](ADDING_FOR_THE_FINAL#) 
 
 ### Team:  
 ### Luciano Pomara, Samuel Jung, Nagima Dubanaeva & Christopher Sullivan
@@ -53,7 +51,7 @@ The code for pulling information from specific API is generally the same which m
 
    * All of the team members have participated in the **coding, debugging, and testing** of the program. Since our program uses four different APIs, each member was assigned an API to work with.
 
-### Project Manager - Lucian Pomara
+### Project Manager - Luciano Pomara
 Focused on organization and making sure the team works effectively during our meetings. Created weekly goals for the team in order to have effective weekly meetings and stay on top of the deadlines. Mainly worked on the GUI and putting all of the APIs into one window.
 Worked with the **Movie Search API**, learned the ins and outs of the API.
 
